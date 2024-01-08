@@ -24,6 +24,8 @@ pinecone-client: This is the client for Pinecone, a vector database service that
 ### Creating embeddings
 ### Storing embeddings in Pinecone
 ### Building the Chatbot Application with Streamlit
+![image1](https://github.com/say123ali/Langchain-chatbot/blob/main/image1.jpg)
+![image2](https://github.com/say123ali/Langchain-chatbot/blob/main/image2.png)
 
 
 - 
